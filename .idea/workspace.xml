@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="HelloServerlet:Web exploded" />
+      <artifact name="HttpRequest:Web exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,9 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dc794d-89ed-4424-bbc6-f95b2a98d843" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/absd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_HttpRequest/src/main/java/lk/ijse/gdse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloServerlet/src/main/java/lk/ijse/gdse/HelloServerlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloServerlet/src/main/java/lk/ijse/gdse/HelloServerlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,18 +53,25 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "project.structure.last.edited": "Facets",
+    "last_opened_file_path": "D:/Ijse Second/OOP course work/connect-four-game-assignment-main",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ijse Second\Sanu AAD\HttpRequest\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="HelloServerlet:Web exploded">
+        <artifact name="HttpRequest:Web exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/HelloServerlet_Web_exploded" />
+            <option name="CONTEXT_PATH" value="/HttpRequest_Web_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -141,7 +149,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="HelloServerlet:Web exploded" />
+          <artifact name="HttpRequest:Web exploded" />
         </option>
       </method>
     </configuration>
@@ -154,7 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695300230822</updated>
-      <workItem from="1695300233356" duration="4752000" />
+      <workItem from="1695300233356" duration="5678000" />
+      <workItem from="1695317750592" duration="627000" />
+      <workItem from="1695395684079" duration="1647000" />
+      <workItem from="1695547852224" duration="1099000" />
+      <workItem from="1696181589479" duration="3989000" />
+      <workItem from="1696259560027" duration="2713000" />
     </task>
     <servers />
   </component>
