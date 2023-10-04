@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="HttpRequest:Web exploded" />
+      <artifact name="mapping" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,12 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dc794d-89ed-4424-bbc6-f95b2a98d843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/MyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/MyServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/mapping/mapping.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/mapping/mapping.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +166,7 @@
       <workItem from="1695547852224" duration="1099000" />
       <workItem from="1696181589479" duration="3989000" />
       <workItem from="1696259560027" duration="5375000" />
-      <workItem from="1696403636049" duration="2168000" />
+      <workItem from="1696403636049" duration="6621000" />
     </task>
     <servers />
   </component>
