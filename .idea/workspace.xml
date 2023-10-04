@@ -10,10 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dc794d-89ed-4424-bbc6-f95b2a98d843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/absd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_HttpRequest/src/main/java/lk/ijse/gdse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/MyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/MyServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/classes/customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HttpRequest_Web_exploded/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +71,9 @@
     <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="HttpRequest:Web exploded">
+        <artifact name="mapping">
           <settings>
-            <option name="CONTEXT_PATH" value="/HttpRequest_Web_exploded" />
+            <option name="CONTEXT_PATH" value="/mapping" />
           </settings>
         </artifact>
       </deployment>
@@ -149,7 +151,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="HttpRequest:Web exploded" />
+          <artifact name="mapping" />
         </option>
       </method>
     </configuration>
@@ -167,7 +169,8 @@
       <workItem from="1695395684079" duration="1647000" />
       <workItem from="1695547852224" duration="1099000" />
       <workItem from="1696181589479" duration="3989000" />
-      <workItem from="1696259560027" duration="4204000" />
+      <workItem from="1696259560027" duration="5375000" />
+      <workItem from="1696403636049" duration="2168000" />
     </task>
     <servers />
   </component>
