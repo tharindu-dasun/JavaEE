@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="appone">
+    <output-path>$PROJECT_DIR$/out/artifacts/appone</output-path>
+    <root id="archive" name="appone.ear">
+      <element id="directory" name="lib">
+        <element id="archive" name="AppOne.jar">
+          <element id="module-output" name="AppOne" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="AppOne/web/Web" />
+    </root>
+  </artifact>
+</component>
