@@ -1,9 +1,9 @@
 <component name="ArtifactManager">
-  <artifact type="ear" name="appone">
+  <artifact type="war" name="appone">
     <output-path>$PROJECT_DIR$/out/artifacts/appone</output-path>
-    <root id="archive" name="appone.ear">
-      <element id="directory" name="lib">
-        <element id="archive" name="AppOne.jar">
+    <root id="archive" name="appone.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
           <element id="module-output" name="AppOne" />
         </element>
       </element>
