@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/../HttpRequest/pom.xml" />
         <option value="$PROJECT_DIR$/../MappingSpec/pom.xml" />
         <option value="$PROJECT_DIR$/../AppOne/pom.xml" />
+        <option value="$PROJECT_DIR$/../AppTwo/AppTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/../JSON_Processing/JSON_Processing/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
