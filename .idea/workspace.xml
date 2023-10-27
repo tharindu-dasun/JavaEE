@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="appone" />
+      <artifact name="json" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dc794d-89ed-4424-bbc6-f95b2a98d843" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "C:/Users/DELL/Documents/mysql-connector-java-8.0.24.zip",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -77,9 +76,9 @@
     <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="appone">
+        <artifact name="json">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/json" />
           </settings>
         </artifact>
       </deployment>
@@ -157,7 +156,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="appone" />
+          <artifact name="json" />
         </option>
       </method>
     </configuration>
@@ -185,7 +184,8 @@
       <workItem from="1697971072427" duration="597000" />
       <workItem from="1698070311885" duration="1196000" />
       <workItem from="1698223294110" duration="1577000" />
-      <workItem from="1698343087891" duration="799000" />
+      <workItem from="1698343087891" duration="1079000" />
+      <workItem from="1698395669483" duration="1413000" />
     </task>
     <servers />
   </component>
